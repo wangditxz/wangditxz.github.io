@@ -82,8 +82,8 @@ github_username: wangditxz
 # ---------------------------------------------------------------
 sidebar: true
 sidebar-about-description: data scientist
-sidebar-avatar-url: /images/myAvatar.JPG
-sidebar-description-after-icons: <a href="https://www.patreon.com/arsnippet" target="_blank"><img src="/img/avatar.gif" alt="support my work at patron"></a><br><br><a href="https://arsnippet.freeflarum.com/" target="_blank"><img src="/img/forum.jpg" alt="support my work at patron"></a><br><br><a href="https://discord.gg/CB6CPzq" target="_blank"><img src="/img/discord.png" alt="Join the Discord"></a>
+sidebar-avatar-url: https://avatars3.githubusercontent.com/u/4664280?s=460&v=4
+sidebar-description-after-icons: <a href="https://www.patreon.com/arsnippet" target="_blank"><img src="/img/patreon.png" alt="support my work at patron"></a><br><br><a href="https://arsnippet.freeflarum.com/" target="_blank"><img src="/img/forum.jpg" alt="support my work at patron"></a><br><br><a href="https://discord.gg/CB6CPzq" target="_blank"><img src="/img/discord.png" alt="Join the Discord"></a>
 
 # ---------------------------------------------------------------
 # Hexo official settings
